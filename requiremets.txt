@@ -1,0 +1,4 @@
+discord
+google
+dnspython
+pymongo
